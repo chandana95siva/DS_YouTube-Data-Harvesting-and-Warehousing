@@ -1,0 +1,8 @@
+google-api-python-client
+pandas
+numpy
+pip install sqlalchemy
+from sqlalchemy import create_engine
+db-browser-sqlite
+streamlit
+pymongo
